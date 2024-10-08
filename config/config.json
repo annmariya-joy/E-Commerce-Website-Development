@@ -1,0 +1,26 @@
+
+{
+  "development": {
+
+    "username": "u888961847_khadi_user",
+    "password": "q3O;UtX^oDTO",
+    "database": "u888961847_khadi_db",
+    "host": "217.21.88.6",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "u888961847_khadi_user",
+    "password": "q3O;UtX^oDTO",
+    "database": "u888961847_khadi_db",
+    "host": "217.21.88.6",
+    "dialect": "mysql"
+    
+  },
+  "production": {
+   "username": "u888961847_khadi_user",
+    "password": "q3O;UtX^oDTO",
+    "database": "u888961847_khadi_db",
+    "host": "217.21.88.6",
+    "dialect": "mysql"
+  }
+}
